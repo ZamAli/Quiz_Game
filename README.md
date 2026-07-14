@@ -1,2 +1,2 @@
 # Quiz_Game
-A simple quiz game
+A simple true pr false quiz game
