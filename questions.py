@@ -1,0 +1,17 @@
+questions_list = {
+    "The Great Wall of China is visible from space with the naked eye.": "False",
+    "Python is an interpreted language.": "True",
+    "The human body has 206 bones.": "True",
+    "Lightning never strikes the same place twice.": "False",
+    "Docker containers share the host operating system's kernel.": "True",
+    "The capital of Australia is Sydney.": "False",
+    "A group of flamingos is called a flamboyance.": "True",
+    "In Robot Framework, [Return] is deprecated in RF5 and above.": "True",
+    "Sharks are mammals.": "False",
+    "The sun is a star.": "True",
+    "SSRF stands for Server-Side Request Forgery.": "True",
+    "Mount Everest is the closest mountain to the moon.": "False",
+    "In Python, a tuple is mutable.": "False",
+    "The CVAI score was higher after helmet therapy than before.": "False",
+    "API testing is considered frontend testing.": "False",
+}
