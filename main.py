@@ -14,7 +14,6 @@ while game_on:
     while question in no_repeat:
         game = Question()
         question = game.question
-    # response = input(f"Q.{Q}: {game.question} (True/False): ")
     response = input(f"Q.{Q}: {question} (True/False): ")
     if response == game.answer:
         cal.right_answer(game.answer, Q)
